@@ -1,0 +1,45 @@
+Meeting Notes — FCB Negotiation                                                                                                                                         
+                                  
+  Date: May 5, 2026                                                                                                                                                       
+                       
+  ---                                                                                                                                                                     
+  Ask 2 — Geographic Scope
+                                                                                                                                                                          
+  Agreed to use an exclusion-list approach rather than enumerating markets individually.
+
+  Territory: Global, 12-month Term                                                                                                                                        
+  Exclusions: UAE · Singapore · Malaysia · Indonesia · standard sanctioned jurisdictions
+                                                                                                                                                                          
+  ---             
+  Ask on Clause 7 — Social Media Framework
+                                                                                                                                                                          
+  FCB confirmed no native commercial posts on Instagram or Facebook. Positions by channel:
+                                                                                                                                                                          
+  ┌─────────────────────────────┬───────────────────────────────────────────────────────┐                                                                                 
+  │           Channel           │                       Position                        │
+  ├─────────────────────────────┼───────────────────────────────────────────────────────┤                                                                                 
+  │ LinkedIn / X / Web          │ As on the agreement                  │
+  ├─────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Instagram                   │ Paid media only — Phase 1 LatAm markets only          │
+  ├─────────────────────────────┼───────────────────────────────────────────────────────┤
+  │ Facebook + Instagram native │ FCB to confirm internally with digital team — pending │
+  └─────────────────────────────┴───────────────────────────────────────────────────────┘                                                                                 
+   
+  ---                                                                                                                                                                     
+  Ask 4 — Clause 5: Welcome Video & Player Content
+                                                                                                                                                                          
+  FCB are not comfortable using player image rights for commercial video. Open to AI-generated content and receptive to a formal proposal.
+                                                                                                                                                                          
+  Next step: NewCo to prepare a concrete concept — no direct player appearances.                                                                                          
+   
+  ---                                                                                                                                                                     
+  Internal Actions
+
+  ┌───────────────────────────────────────────────────────────────────────┬─────────────────┐
+  │                                Action                                 │      Owner      │
+  ├───────────────────────────────────────────────────────────────────────┼─────────────────┤
+  │ Proceed with both contracts — do not delay. Objective remains Phase 2 │ Marcel          │
+  ├───────────────────────────────────────────────────────────────────────┼─────────────────┤
+  │ Send Schedule 1 (marketing section) to Cesar for review               │ Andrew / Walter │                                                                             
+  └───────────────────────────────────────────────────────────────────────┴─────────────────┘                                                                             
+                                                                                                    

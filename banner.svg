@@ -1,0 +1,37 @@
+<svg width="1200" height="1800" viewBox="0 0 1200 1800" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- BACKGROUND -->
+  <g id="Background">
+    <rect width="1200" height="1800" fill="#06142D"/>
+
+    <circle cx="180" cy="120" r="240" fill="#1B4DFF" opacity="0.18"/>
+    <circle cx="1050" cy="220" r="300" fill="#0A67FF" opacity="0.10"/>
+
+    <!-- Stadium lights -->
+    <g id="Lights" opacity="0.9">
+      <circle cx="80" cy="120" r="18" fill="white"/>
+      <circle cx="120" cy="115" r="18" fill="white"/>
+      <circle cx="160" cy="110" r="18" fill="white"/>
+      <circle cx="200" cy="105" r="18" fill="white"/>
+      <circle cx="240" cy="100" r="18" fill="white"/>
+      <circle cx="280" cy="95" r="18" fill="white"/>
+    </g>
+  </g>
+
+  <!-- PLAYER -->
+  <g id="Player">
+    <image href="lamine_yamal.png" x="20" y="160" width="620" height="1450" preserveAspectRatio="xMidYMid meet"/>
+  </g>
+
+  <!-- BIG TITLE -->
+  <g id="Typography">
+    <text x="690" y="420"
+      font-family="Arial Black"
+      font-size="260"
+      font-weight="900"
+      fill="#F1193D">
+      CARD
+    </text>
+
+    <text x="720" y="250"
+</svg>
